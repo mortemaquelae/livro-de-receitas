@@ -1,0 +1,14 @@
+comandos 
+ls / = todos as pastas 
+md .. = volta as pastas 
+git status = verifica os status das pastas 
+cd = entras nas pastas
+tecla tab= completa os comandos 
+echo > = cria pasta 
+git commit -m " adiciona indes" = adiciona arquivos na nuvem
+git add,add*,add.= adiciona move os arquivos para outros status
+git config = abre todas as configurasçoes do github
+git remote add- adiciona repositorios no github
+git remote -v = listas os repositorios cadastrados
+git push origin master= empurar os arquivos ao repositorios 
+git pull origin master= puxa o conteudo e tenta deixar atualizado a ultima versao
